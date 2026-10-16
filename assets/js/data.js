@@ -1,7 +1,7 @@
 /* ===== DATA: ganti isi di sini. Semua [placeholder] belum diisi. ===== */
 const DATA={
 cvUrl:"",                       // isi tautan CV (PDF) di sini
-email:"[email@anda.com]", github:"[username]", linkedin:"[username]", whatsapp:"[nomor-wa]",
+email:"[veendysuseno@gmail.com]", github:"[veendysuseno]", linkedin:"[veendysuseno]", whatsapp:"[6287836191127]",
 intro:"Saya memiliki ketertarikan dan pengalaman di bidang teknologi informasi, khususnya IT Support, computer troubleshooting, networking, hardware, software, dan IoT. Saya terbiasa mempelajari dan menyelesaikan permasalahan teknis secara sistematis serta memiliki kemampuan untuk mempelajari teknologi baru.",
 floating:["Windows","Linux","Networking","Troubleshooting","Hardware","IoT"],
 stats:[["01+","Technical Areas"],["05+","Projects"],["Multiple","Technologies"]],
@@ -22,6 +22,6 @@ workflow:[["Identify","Memahami masalah user"],["Diagnose","Mengecek hardware, s
 experience:[
 ["Technical Experience","IT & Technology Projects","Project-based learning",["Hardware troubleshooting","Networking","Raspberry Pi","IoT","Linux","Python"]],
 ["Technical Experience","Workshop / Laboratory Projects","Praktik di workshop dan laboratorium",["Raspberry Pi","Mobile Robot","Face Recognition","IoT Healthcare","Web-based Robot Control"]]],
-education:[["[Nama Universitas]","[Program Studi]","[Tahun]","[Fokus pembelajaran]"]],
+education:[["[Universitas Gunadarma]","[S1 Sistem Komputer]","[2016 - 2022]","[Network, IoT, Cyber Security]"]],
 certs:[["Certification / Training 01"],["Certification / Training 02"],["Certification / Training 03"]]
 };
